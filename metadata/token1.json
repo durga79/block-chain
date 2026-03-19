@@ -1,0 +1,10 @@
+{
+  "name": "Nova Art #1 - Digital Horizon",
+  "description": "A digital landscape artwork representing the dawn of decentralised technology. Part of the Nova Art collection.",
+  "image": "ipfs://bafybeia7hy3pgzalm57esoacrqs2mistjabor4gu7edpq6olec3pvdoyde",
+  "attributes": [
+    { "trait_type": "Collection", "value": "Nova Art" },
+    { "trait_type": "Edition", "value": "1 of 4" },
+    { "trait_type": "Category", "value": "Digital Landscape" }
+  ]
+}

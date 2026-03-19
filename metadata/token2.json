@@ -1,0 +1,10 @@
+{
+  "name": "Nova Art #2 - Chain Link",
+  "description": "An abstract representation of interconnected blockchain nodes. Part of the Nova Art collection.",
+  "image": "ipfs://bafybeibuvxrbuv57b2vo5sshah4pu7zsbjrfzoer2isc7j7ovxhshzlg4e",
+  "attributes": [
+    { "trait_type": "Collection", "value": "Nova Art" },
+    { "trait_type": "Edition", "value": "2 of 4" },
+    { "trait_type": "Category", "value": "Abstract" }
+  ]
+}

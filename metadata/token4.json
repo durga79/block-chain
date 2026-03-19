@@ -1,0 +1,10 @@
+{
+  "name": "Nova Art #4 - Hash Mosaic",
+  "description": "A mosaic artwork composed of cryptographic hash patterns symbolising data integrity. Part of the Nova Art collection.",
+  "image": "ipfs://bafybeic6o3v3widiwgm3nunfiwahwdt3dj7iqlc7x5ocnt4qc3uv5y6ffy",
+  "attributes": [
+    { "trait_type": "Collection", "value": "Nova Art" },
+    { "trait_type": "Edition", "value": "4 of 4" },
+    { "trait_type": "Category", "value": "Mosaic" }
+  ]
+}

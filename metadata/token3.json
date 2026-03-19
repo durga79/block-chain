@@ -1,0 +1,10 @@
+{
+  "name": "Nova Art #3 - Ledger Bloom",
+  "description": "A generative art piece inspired by the growth patterns of distributed ledger networks. Part of the Nova Art collection.",
+  "image": "ipfs://bafybeieokvubkzsvh24opp4ajp42ip7dweubejvly5qjhadqrlhtxrj4xm",
+  "attributes": [
+    { "trait_type": "Collection", "value": "Nova Art" },
+    { "trait_type": "Edition", "value": "3 of 4" },
+    { "trait_type": "Category", "value": "Generative" }
+  ]
+}

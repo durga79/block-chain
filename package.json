@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-assignment",
+  "version": "1.0.0",
+  "description": "ERC-20 and ERC-721 smart contract assignment",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy:erc20": "npx hardhat run scripts/deploy-erc20.js --network sepolia",
+    "distribute:erc20": "npx hardhat run scripts/distribute-erc20.js --network sepolia",
+    "deploy:erc721": "npx hardhat run scripts/deploy-erc721.js --network sepolia",
+    "mint:nfts": "npx hardhat run scripts/mint-nfts.js --network sepolia"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
